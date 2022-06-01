@@ -139,7 +139,6 @@ export const TDLforReduxDBL = () => {
 
 
     return (
-
         <div>
             <FullInput callBack={addWeekdays}/>
             <div style={{display: 'flex'}}>
